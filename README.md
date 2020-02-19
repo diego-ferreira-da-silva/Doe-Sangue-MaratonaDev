@@ -6,22 +6,22 @@ Este projeto é um cadastro para doadores de sangue, foi utilizado além a estru
 
 Foram Utilizados nesta aplicação:
 Programas:
-Visual Studio Code
-Google Chrome
-PostBird
-PostgreSQL
+Visual Studio Code,
+Google Chrome,
+PostBird,
+PostgreSQL.
 
 Frameworks utilizados foram: 
-Express
-Nodemun
-Nunjuks
-pg
+Express,
+Nodemun,
+Nunjuks,
+pg.
 
 Aplicação desenvolvida com:
-HTML 5
-CSS
-JavaScript
-Postgree 
-Postbird
+HTML 5,
+CSS,
+JavaScript,
+Postgree ,
+Postbird.
 
 Muito obrigado pela visita e espero que goste.
